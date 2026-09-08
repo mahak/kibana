@@ -22,4 +22,4 @@ When you're discussing a PR or an issue, we want your thoughts — not a summary
 
 How a change was produced doesn't change what we expect of it. Every contribution is held to the same standard for clarity, scope, and fit with the project's conventions. Pull requests that show the author doesn't understand the change, that reach further than they need to, or that ignore how Kibana does things will be closed. That's not about the tools you used. It's about the result.
 
-Thanks for pitching in. We're happy to have you. 🌈🦄🚀🔥
+Thanks for pitching in. We're happy to have you.
